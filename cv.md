@@ -2,6 +2,9 @@
 * Email: romanzemerov@gmail.com
 * Telegram: @romanzemerov
 
+## Summary
+I'm currently working as a QA Engineer in a yellow bank. I'm fully responsible for releasing business features (from tasking to release), and also testing both frontend and backend parts of the application. I want to further develop as a Frontend developer and make user-friendly and performance web apps.
+
 ## Skills
 * HTML
 * CSS
