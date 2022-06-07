@@ -16,7 +16,7 @@ I'm currently working as a QA Engineer in a yellow bank. I'm fully responsible f
 
 ## Working experience
 **QA Engineer**
-*01.2020 to current*, **[Tinkoff](https://www.tinkoff.ru/)**
+*01.2019 to current*, **[Tinkoff](https://www.tinkoff.ru/)**
 
 ## Education
 * Herzen Univesity graduate, Computer Science, 2016
